@@ -1,8 +1,11 @@
 package com.talentLMS.UI.driverFactory;
+
 import com.talentLMS.UI.dataProviders.ConfigReader;
 import org.openqa.selenium.WebDriver;
 /**
  * @author Belek Baratov
+ *
+ *
  */
 public class Driver {
     private Driver(){
